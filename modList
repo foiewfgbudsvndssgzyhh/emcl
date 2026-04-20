@@ -66,5 +66,6 @@
   "BarkVersion":"Bark v3",
   "Grate": "Grate Menu",
   "BarkPlayerSize": "Bark Menu",
-  "Bark": "Bark Menu"
+  "Bark": "Bark Menu",
+  "CustomTag": "Custom Tags"
 }
